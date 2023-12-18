@@ -2,3 +2,6 @@
 mods/
 modWeb.html
 searchWeb.html
+build/
+dist/
+Main.spec
